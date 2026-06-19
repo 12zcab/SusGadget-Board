@@ -80,7 +80,9 @@ i gotta redesign it later i think
 
 # Logs 16/6/2026
 Decided to use normal supermini and add a oled screen myself :|
+
 https://detail.tmall.com/item.htm?abbucket=20&id=611352518150&mi_id=0000pYwxGRzYKRLn4FzhkfKE19J5gkulzfIQ9u5VuWXrN1U&ns=1&priceTId=2100cff617815993482653591e0737&spm=a21n57.1.hoverItem.7&utparam=%7B%22aplus_abtest%22%3A%224c6de8d9686da9c172b3bdc47aa9a279%22%7D&xxc=taobaoSearch
+
 what i did today:
 1.Redesigned the board
 2.Routed the board again
