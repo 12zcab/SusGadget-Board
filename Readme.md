@@ -1,8 +1,12 @@
 # SusGadget
 Welp this usb is kinda sus u know
+
 Try to plug it onto your computer or power it
+
 may be it will hijack ur computer with HID magic power
+
 or may be it will connect Bluetooth to ur phone and play rickroll?
+
 or it... may even send weird signals to aliens! :|
 
 # Zine
@@ -34,12 +38,16 @@ or it... may even send weird signals to aliens! :|
 
 # What is this
 Yah this sus usb stick gadget is a esp32 S3 supermini based (depends on your preferred function and cost) board with i2c port, a usb Power and UART port with onboard ch340c and a mini joystick !
+
 it also have a potentiometer and a buzzer so may be u can make some weird beep noise that changes its pitch while u spin the potentiometer and communicate with aliens (welp, who knows?)
+
 Definitely a cool gadget and definitely sus enough :D
 
 # Why I made this :|
 Humm idk this is like what people think electronic nerds will make : |
-(Actually i wanna try to plug in this usb and tell my friend this is just a oled small screen to monitor his computer's temperature then shutdown his computer with Alt+F4+Enter while he plays Roblox :DDDDD)
+
+(Actually i wanna try to plug in this usb and tell my friend this is just a oled small screen to monitor his computer's temperature then shutdown his computer with Alt+F4+Enter while he 
+plays Roblox :DDDDD)
 
 # What it can do?
  1.A 0.91 inch Oled for Display
