@@ -21,10 +21,15 @@ or it... may even send weird signals to aliens! :|
 
 # How to Assemble
 1.Solder all the SMD components (CH340C,Joystick,USBA)
+
 2.Solder 2.54 Socket and PinHeaders
+
 3.Solder the 104 Capacitor
+
 4.Solder the Buzzer (or a mini Speaker if u want)
+
 5.Test and Solder the ESP32 S3 Supermini
+
 6.Solder the Potentiometer
 
 # What is this
@@ -38,19 +43,30 @@ Humm idk this is like what people think electronic nerds will make : |
 
 # What it can do?
  1.A 0.91 inch Oled for Display
+ 
  2.A Potentiometer for Analog Input
+ 
  3.A Joystick Module Connecter
+ 
  4.A RGB WS2812 LED on board
+ 
  5.A USB-A with CH340 on board serial interface (and for power)
+ 
  6.Extend IO Ports (GPIO,I2C)
+ 
  7.5-Way Joy-Stick like Switch
+ 
  8.a buzzer :D
 
 # How to Assemble it
  1.Solder all SMD components first
+ 
  2.Test and burn firmware to the ESP32 S3 Supermini
+ 
  3.Solder All the 2.54 PinHeaders and PinSockets
+ 
  4.Solder Other Components
+ 
  5.Enjoy using this for hacking ur friend's computer :D
 
 # Logs 15/6/2026
