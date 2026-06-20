@@ -1,12 +1,8 @@
 # SusGadget
 Welp this usb is kinda sus u know
-
 Try to plug it onto your computer or power it
-
 may be it will hijack ur computer with HID magic power
-
 or may be it will connect Bluetooth to ur phone and play rickroll?
-
 or it... may even send weird signals to aliens! :|
 
 # Zine
@@ -19,62 +15,42 @@ or it... may even send weird signals to aliens! :|
 ![PCBB](https://github.com/12zcab/SusGadget-Board/blob/main/img/pcbb.png)
 
 # Assembled Images
-![3Ddesign](https://github.com/12zcab/SusGadget-Board/blob/main/img/3Ddesign.png)
-![3DF](https://github.com/12zcab/SusGadget-Board/blob/main/img/3DF.png)
-![3DB](https://github.com/12zcab/SusGadget-Board/blob/main/img/3DB.png)
+![Gif](https://github.com/12zcab/SusGadget-Board/blob/main/img/SusGadget.gif)
+![3DF](https://github.com/12zcab/SusGadget-Board/blob/main/img/ASSMF.png)
+![3DB](https://github.com/12zcab/SusGadget-Board/blob/main/img/ASSMB.png)
 
 # How to Assemble
 1.Solder all the SMD components (CH340C,Joystick,USBA)
-
 2.Solder 2.54 Socket and PinHeaders
-
 3.Solder the 104 Capacitor
-
 4.Solder the Buzzer (or a mini Speaker if u want)
-
 5.Test and Solder the ESP32 S3 Supermini
-
 6.Solder the Potentiometer
 
 # What is this
 Yah this sus usb stick gadget is a esp32 S3 supermini based (depends on your preferred function and cost) board with i2c port, a usb Power and UART port with onboard ch340c and a mini joystick !
-
 it also have a potentiometer and a buzzer so may be u can make some weird beep noise that changes its pitch while u spin the potentiometer and communicate with aliens (welp, who knows?)
-
 Definitely a cool gadget and definitely sus enough :D
 
 # Why I made this :|
 Humm idk this is like what people think electronic nerds will make : |
-
-(Actually i wanna try to plug in this usb and tell my friend this is just a oled small screen to monitor his computer's temperature then shutdown his computer with Alt+F4+Enter while he 
-plays Roblox :DDDDD)
+(Actually i wanna try to plug in this usb and tell my friend this is just a oled small screen to monitor his computer's temperature then shutdown his computer with Alt+F4+Enter while he plays Roblox :DDDDD)
 
 # What it can do?
  1.A 0.91 inch Oled for Display
- 
  2.A Potentiometer for Analog Input
- 
  3.A Joystick Module Connecter
- 
  4.A RGB WS2812 LED on board
- 
  5.A USB-A with CH340 on board serial interface (and for power)
- 
  6.Extend IO Ports (GPIO,I2C)
- 
  7.5-Way Joy-Stick like Switch
- 
  8.a buzzer :D
 
 # How to Assemble it
  1.Solder all SMD components first
- 
  2.Test and burn firmware to the ESP32 S3 Supermini
- 
  3.Solder All the 2.54 PinHeaders and PinSockets
- 
  4.Solder Other Components
- 
  5.Enjoy using this for hacking ur friend's computer :D
 
 # Logs 15/6/2026
@@ -104,9 +80,7 @@ i gotta redesign it later i think
 
 # Logs 16/6/2026
 Decided to use normal supermini and add a oled screen myself :|
-
 https://detail.tmall.com/item.htm?abbucket=20&id=611352518150&mi_id=0000pYwxGRzYKRLn4FzhkfKE19J5gkulzfIQ9u5VuWXrN1U&ns=1&priceTId=2100cff617815993482653591e0737&spm=a21n57.1.hoverItem.7&utparam=%7B%22aplus_abtest%22%3A%224c6de8d9686da9c172b3bdc47aa9a279%22%7D&xxc=taobaoSearch
-
 what i did today:
 1.Redesigned the board
 2.Routed the board again
@@ -114,3 +88,9 @@ what i did today:
 4.Wrote some Readme.md
 5.Finished the Zine
 6.Welp Basically Finished EVERYTHING OMG
+
+# Logs 20/6/2026
+Edited the Zine Page for Reupload
+Added a case for the board
+Rendered an animation for the assembly process
+READY FOR REUPLOADDDDＡＧＩＡＮＮＮＮＮＮＮ
