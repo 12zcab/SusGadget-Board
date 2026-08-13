@@ -5,13 +5,6 @@ import json, joystick, time, os
 
 cached_apps = []
 
-def load_config():
-    with open("config.json", "r") as file:
-        return json.load(file)
-
-def save_config(config):
-    with open("config.json", "w") as file:
-        json.dump(config, file, indent=4)
 
 def return_app_paths():
     paths = []
@@ -40,7 +33,6 @@ def cache_apps_and_icons():
     for path, init_file in raw_paths:
         icon_bin_path = f"{path}/icon.bin"
         icon_py_path = f"{path}/icon.bin.py"
-        
         icon_type = "none"
         icon_data = None
         
@@ -65,10 +57,11 @@ def cache_apps_and_icons():
                     py_code = f.read()
                 icon_type = "py"
                 icon_data = compile(py_code, icon_py_path, "exec")
-            except OSError:
+            except (OSError, SyntaxError, IndentationError) as e:
+                # Fallback if file is missing or has a syntax/indentation bug
                 icon_type = "none"
                 icon_data = [0 * 32 for _ in range(32)]
-                
+
         cached_apps.append({
             "path": path,
             "init_file": init_file,
@@ -110,6 +103,8 @@ def loop():
             move_cursor_pos_x = 16
         if move_cursor_pos_y < 16:
             move_cursor_pos_y = 16
+        if move_cursor_pos_x > 240:
+            move_cursor_pos_x = 240
         if move_cursor_pos_x > cursor_pos_x:
             cursor_pos_x += 8
             print(cursor_pos_x)
@@ -143,7 +138,6 @@ def loop():
                         print("Icon script error:", e)
                 else:
                     oled.rect_noupdate(icon_x + 2, icon_y + 2, 28, 28, 1)
-                
                 if drawx == cursor_mapped_x:
                     if drawy == cursor_mapped_y:
                         oled.rect_noupdate(icon_x, icon_y, 32, 32, 1)

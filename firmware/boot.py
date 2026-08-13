@@ -4,9 +4,8 @@ import usb_cdc
 import usb_hid
 import usb_midi
 import interface.oled
-
 interface.oled.clear()
-interface.oled.text("Sus-Gadget  12zcab",0,0)
+interface.oled.text("Sus-Gadget",0,0)
 interface.oled.text("Booting.",0,16)
 usb_midi.disable()
 print("Disabled Midi")

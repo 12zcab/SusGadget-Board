@@ -12,6 +12,15 @@ def play_tone(frequency, duration):
     buzzer.duty_cycle = 32768
     time.sleep(duration)
     buzzer.duty_cycle = 0
+def active():
+    global buzzer
+    buzzer.duty_cycle = 32768
+def deactive():
+    global buzzer
+    buzzer.duty_cycle = 0
+def freq(fre):
+    global buzzer
+    buzzer.frequency = fre
 def play_series(frequencies, durations):
     for frequency,duration in zip(frequencies, durations):
         if frequency == 0:
