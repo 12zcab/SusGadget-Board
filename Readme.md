@@ -4,6 +4,7 @@ Try to plug it onto your computer or power it
 may be it will hijack ur computer with HID magic power
 or may be it will connect Bluetooth to ur phone and play rickroll?
 or it... may even send weird signals to aliens! :|
+Huge thx to Raghav who helped me polish the project and improved many design flaws and zinc design :) 
 
 # Zine
 ![Zine](https://github.com/12zcab/SusGadget-Board/blob/main/Zine.png)
