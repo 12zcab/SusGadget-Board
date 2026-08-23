@@ -7,7 +7,8 @@ or it... may even send weird signals to aliens! :|
 Huge thx to Raghav who helped me polish the project and improved many design flaws and zinc design :) 
 
 # Zine
-![Zine](https://github.com/12zcab/SusGadget-Board/blob/main/Zine.png)
+<img width="486" height="749" alt="Zine" src="https://github.com/user-attachments/assets/5409e128-7941-4172-b062-a6d6b95881d9" />
+
 
 # Images
 
