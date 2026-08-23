@@ -1,5 +1,5 @@
 # SusGadget
-
+![Assemble](https://github.com/12zcab/SusGadget-Board/blob/main/AssembleAnimation.gif)
 <img width="4624" height="3472" alt="IMG_20260813_192945 (2)" src="https://github.com/user-attachments/assets/b0f90c12-9609-4f29-9516-8a4e2eb309bd" />
 A hack ducky which can maybe do some questionable stuff to your computer or maybe it’s just a sweet little game who knows!
 <br>
