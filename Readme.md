@@ -17,6 +17,10 @@ Huge thanks to Raghav who helped me polish the project and improved many design 
 <img width="1311" height="792" alt="Screenshot 2026-08-23 151615" src="https://github.com/user-attachments/assets/65ea3e1e-9d5d-4c7c-bd59-5aec1dbe9736" />
 <img width="1725" height="1046" alt="Screenshot 2026-08-23 152606" src="https://github.com/user-attachments/assets/25dbeef7-2485-4221-a2a6-165ed0ea9237" />
 <img width="1567" height="954" alt="Screenshot 2026-08-23 152553" src="https://github.com/user-attachments/assets/525d9d2a-c063-417a-b43a-2ff189688667" />
+<img width="1034" height="766" alt="design (1)" src="https://github.com/user-attachments/assets/523d66f5-7cd7-4987-a299-426821de6f99" />
+<img width="874" height="1112" alt="pcbf" src="https://github.com/user-attachments/assets/88bbe9a2-33bb-4eeb-81cd-86c7cadd2be0" />
+<img width="460" height="966" alt="routing (1)" src="https://github.com/user-attachments/assets/f9fa17ea-89af-4344-943c-fe0ebdb60ab6" />
+
 
 <br>
 <br>
