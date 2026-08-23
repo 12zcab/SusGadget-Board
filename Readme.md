@@ -1,10 +1,9 @@
 # SusGadget
-Welp this usb is kinda sus u know
-Try to plug it onto your computer or power it
-may be it will hijack ur computer with HID magic power
-or may be it will connect Bluetooth to ur phone and play rickroll?
-or it... may even send weird signals to aliens! :|
-Huge thx to Raghav who helped me polish the project and improved many design flaws and zinc design :) 
+
+<img width="4624" height="3472" alt="IMG_20260813_192945 (2)" src="https://github.com/user-attachments/assets/b0f90c12-9609-4f29-9516-8a4e2eb309bd" />
+A hack ducky which can maybe do some questionable stuff to your computer or maybe it’s just a sweet little game who knows!
+
+Huge thanks to Raghav who helped me polish the project and improved many design flaws and zine design :) 
 
 # Zine
 <img width="486" height="749" alt="Zine" src="https://github.com/user-attachments/assets/5409e128-7941-4172-b062-a6d6b95881d9" />
@@ -17,6 +16,9 @@ Huge thx to Raghav who helped me polish the project and improved many design fla
 <img width="1311" height="792" alt="Screenshot 2026-08-23 151615" src="https://github.com/user-attachments/assets/65ea3e1e-9d5d-4c7c-bd59-5aec1dbe9736" />
 <img width="1725" height="1046" alt="Screenshot 2026-08-23 152606" src="https://github.com/user-attachments/assets/25dbeef7-2485-4221-a2a6-165ed0ea9237" />
 <img width="1567" height="954" alt="Screenshot 2026-08-23 152553" src="https://github.com/user-attachments/assets/525d9d2a-c063-417a-b43a-2ff189688667" />
+
+
+
 
 # How to Assemble
 1.Solder all the SMD components (CH340C,Joystick,USBA)
