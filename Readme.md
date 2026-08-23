@@ -10,10 +10,6 @@ Huge thx to Raghav who helped me polish the project and improved many design fla
 ![Zine](https://github.com/12zcab/SusGadget-Board/blob/main/Zine.png)
 
 # Images
-![Design](https://github.com/12zcab/SusGadget-Board/blob/main/img/design.png)
-![Routing](https://github.com/12zcab/SusGadget-Board/blob/main/img/routing.png)
-![PCBF](https://github.com/12zcab/SusGadget-Board/blob/main/img/pcbf.png)
-![PCBB](https://github.com/12zcab/SusGadget-Board/blob/main/img/pcbb.png)
 
 <img width="1589" height="917" alt="Screenshot 2026-08-23 152524" src="https://github.com/user-attachments/assets/9256074a-e23e-499d-afd0-5c02d3e5973b" />
 <img width="1888" height="942" alt="Screenshot 2026-08-23 152019" src="https://github.com/user-attachments/assets/c2955b8d-cb3f-4902-998d-c03402cb7f0e" />
