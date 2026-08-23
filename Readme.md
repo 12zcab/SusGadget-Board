@@ -20,9 +20,11 @@ Huge thanks to Raghav who helped me polish the project and improved many design 
 
 <br>
 <br>
+
 # What is this
-Yah this sus usb stick gadget is a esp32 S3 supermini based (depends on your preferred function and cost) board with i2c port, a usb Power and UART port with onboard ch340c and a mini joystick !
-it also have a potentiometer and a buzzer so may be u can make some weird beep noise that changes its pitch while u spin the potentiometer and communicate with aliens (welp, who knows?)
+
+This is a esp32 S3 supermini based Hackducky, with a OLED display, a joystick and a potentiometer which can be used to execute commands on your friend's computer to prank them or maybe just it as a mini display for timers, temperatures or any other stats, the possibilities are endless! !
+it also has a potentiometer and a buzzer so u can may be make some weird beep noise that changes its pitch while u spin the potentiometer and communicate with aliens (welp, who knows?)
 Definitely a cool gadget and definitely sus enough :D
 <br>
 <br>
@@ -44,10 +46,21 @@ Humm idk this is like what people think electronic nerds will make : |
 
 
 # How to make it yourself
- 1.Solder all SMD components first
- 2.Test and burn firmware to the ESP32 S3 Supermini
- 3.Solder All the 2.54 PinHeaders and PinSockets
- 4.Solder Other Components
- 5.Enjoy using this for hacking ur friend's computer :D
+ <h2> 1. Acquire parts </h2>
+ - Navigate to the BOM in the repository and buy the listed parts. <br>
+ - 3D print the case by acquiring stl files from the 3de print folder in the repository. <br>
+ - Order PCB by using the gerber files provided in the repository. <br>
+ 
+ <h2> 2. Assembly </h2>
+ - Solder all the components on the PCB. <br>
+ - Put the soldered PCB in the case.
+  
+ <h2> 3. Firmware setup </h2>
 
+  - Connect your device to the esp 32
+  - Download the firmware files from the repo
+  - Load the firmware
 
+<h2> (most imp step)</h2>
+- prank your friends
+- have fun
