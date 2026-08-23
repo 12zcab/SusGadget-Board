@@ -34,33 +34,33 @@ Humm idk this is like what people think electronic nerds will make : |
 (Actually i wanna try to plug in this usb and tell my friend this is just a oled small screen to monitor his computer's temperature then shutdown his computer with Alt+F4+Enter while he plays Roblox :DDDDD)
 
 # Parts required
- 1.A 0.91 inch Oled for Display
- 2.A Potentiometer for Analog Input
- 3.A Joystick Module Connecter
- 4.A RGB WS2812 LED on board
- 5.A USB-A with CH340 on board serial interface (and for power)
- 6.Extend IO Ports (GPIO,I2C)
- 7.5-Way Joy-Stick like Switch
- 8.a buzzer :D
+ 1. A 0.91 inch Oled for Display
+ 2. A Potentiometer for Analog Input
+ 3. A Joystick Module Connecter
+ 4. A RGB WS2812 LED on board
+ 5. A USB-A with CH340 on board serial interface (and for power)
+ 6. Extend IO Ports (GPIO,I2C)
+ 7. 5-Way Joy-Stick like Switch
+ 8. a buzzer :D
  
 
 
 # How to make it yourself
  <h2> 1. Acquire parts </h2>
- - Navigate to the BOM in the repository and buy the listed parts. <br>
- - 3D print the case by acquiring stl files from the 3de print folder in the repository. <br>
- - Order PCB by using the gerber files provided in the repository. <br>
+- Navigate to the BOM in the repository and buy the listed parts. <br>
+- 3D print the case by acquiring stl files from the 3de print folder in the repository. <br>
+- Order PCB by using the gerber files provided in the repository. <br>
  
  <h2> 2. Assembly </h2>
  - Solder all the components on the PCB. <br>
- - Put the soldered PCB in the case.
+ - Put the soldered PCB in the case. <br>
   
  <h2> 3. Firmware setup </h2>
 
-  - Connect your device to the esp 32
-  - Download the firmware files from the repo
-  - Load the firmware
+ - Connect your device to the esp 32 <br>
+ - Download the firmware files from the repo <br>
+ - Load the firmware <br>
 
-<h2> (most imp step)</h2>
-- prank your friends
-- have fun
+<h2> 4. (most imp step) </h2>
+- prank your friends <br>
+- have fun  <br>
