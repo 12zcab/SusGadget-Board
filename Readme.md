@@ -15,10 +15,11 @@ Huge thx to Raghav who helped me polish the project and improved many design fla
 ![PCBF](https://github.com/12zcab/SusGadget-Board/blob/main/img/pcbf.png)
 ![PCBB](https://github.com/12zcab/SusGadget-Board/blob/main/img/pcbb.png)
 
-# Assembled Images
-![Gif](https://github.com/12zcab/SusGadget-Board/blob/main/img/SusGadget.gif)
-![3DF](https://github.com/12zcab/SusGadget-Board/blob/main/img/ASSMF.png)
-![3DB](https://github.com/12zcab/SusGadget-Board/blob/main/img/ASSMB.png)
+<img width="1589" height="917" alt="Screenshot 2026-08-23 152524" src="https://github.com/user-attachments/assets/9256074a-e23e-499d-afd0-5c02d3e5973b" />
+<img width="1888" height="942" alt="Screenshot 2026-08-23 152019" src="https://github.com/user-attachments/assets/c2955b8d-cb3f-4902-998d-c03402cb7f0e" />
+<img width="1311" height="792" alt="Screenshot 2026-08-23 151615" src="https://github.com/user-attachments/assets/65ea3e1e-9d5d-4c7c-bd59-5aec1dbe9736" />
+<img width="1725" height="1046" alt="Screenshot 2026-08-23 152606" src="https://github.com/user-attachments/assets/25dbeef7-2485-4221-a2a6-165ed0ea9237" />
+<img width="1567" height="954" alt="Screenshot 2026-08-23 152553" src="https://github.com/user-attachments/assets/525d9d2a-c063-417a-b43a-2ff189688667" />
 
 # How to Assemble
 1.Solder all the SMD components (CH340C,Joystick,USBA)
