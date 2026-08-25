@@ -65,21 +65,21 @@ Humm idk this is like what people think electronic nerds will make : |
 
 
 ## How to make it yourself
- <h2> 1. Acquire parts </h2>
+ <h3> 1. Acquire parts </h3>
 - Navigate to the BOM in the repository and buy the listed parts. <br>
 - 3D print the case by acquiring stl files from the 3de print folder in the repository. <br>
 - Order PCB by using the gerber files provided in the repository. <br>
  
- <h2> 2. Assembly </h2>
+ <h3> 2. Assembly </h3>
  - Solder all the components on the PCB. <br>
  - Put the soldered PCB in the case. <br>
   
- <h2> 3. Firmware setup </h2>
+ <h3> 3. Firmware setup </h3>
 
  - Connect your device to the esp 32 <br>
  - Download the firmware files from the repo <br>
  - Load the firmware <br>
 
-<h2> 4. (most imp step) </h2>
+<h3> 4. (most imp step) </h3>
 - prank your friends <br>
 - have fun  <br>
