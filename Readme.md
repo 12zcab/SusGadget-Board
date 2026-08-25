@@ -1,18 +1,31 @@
-# SusGadget
+## SusGadget
 
-![Assemble](https://github.com/12zcab/SusGadget-Board/blob/main/AssembleAnimation.gif)
+
 
 <img width="4624" height="3472" alt="IMG_20260813_192945 (2)" src="https://github.com/user-attachments/assets/b0f90c12-9609-4f29-9516-8a4e2eb309bd" />
 A hack ducky which can maybe do some questionable stuff to your computer or maybe it’s just a sweet little game who knows!
 <br>
 <br>
+
+## Table of contents
+- [Zine page](#Zine)
+- [Images](#Images)
+- [What is this](#What-is-this)
+- [Why I made this](#Why-I-made-this)
+- [Parts required](#Parts-required)
+- [How to make it yourself](#How-to-make-it-yourself)
+
+<br>
+<br>
 Huge thanks to Raghav who helped me polish the project and improved many design flaws and zine design :) 
 
-# Zine
+## Zine
 <img width="486" height="749" alt="Zine" src="https://github.com/user-attachments/assets/5409e128-7941-4172-b062-a6d6b95881d9" />
 
 
-# Images
+## Images
+
+![Assemble](https://github.com/12zcab/SusGadget-Board/blob/main/AssembleAnimation.gif)
 
 <img width="1589" height="917" alt="Screenshot 2026-08-23 152524" src="https://github.com/user-attachments/assets/9256074a-e23e-499d-afd0-5c02d3e5973b" />
 <img width="1888" height="942" alt="Screenshot 2026-08-23 152019" src="https://github.com/user-attachments/assets/c2955b8d-cb3f-4902-998d-c03402cb7f0e" />
@@ -27,7 +40,7 @@ Huge thanks to Raghav who helped me polish the project and improved many design 
 <br>
 <br>
 
-# What is this
+## What is this
 
 This is a esp32 S3 supermini based Hackducky, with a OLED display, a joystick and a potentiometer which can be used to execute commands on your friend's computer to prank them or maybe just it as a mini display for timers, temperatures or any other stats, the possibilities are endless! !
 it also has a potentiometer and a buzzer so u can may be make some weird beep noise that changes its pitch while u spin the potentiometer and communicate with aliens (welp, who knows?)
@@ -35,11 +48,11 @@ Definitely a cool gadget and definitely sus enough :D
 <br>
 <br>
 
-# Why I made this :|
+## Why I made this :|
 Humm idk this is like what people think electronic nerds will make : |
 (Actually i wanna try to plug in this usb and tell my friend this is just a oled small screen to monitor his computer's temperature then shutdown his computer with Alt+F4+Enter while he plays Roblox :DDDDD)
 
-# Parts required
+## Parts required
  1. A 0.91 inch Oled for Display
  2. A Potentiometer for Analog Input
  3. A Joystick Module Connecter
@@ -51,7 +64,7 @@ Humm idk this is like what people think electronic nerds will make : |
  
 
 
-# How to make it yourself
+## How to make it yourself
  <h2> 1. Acquire parts </h2>
 - Navigate to the BOM in the repository and buy the listed parts. <br>
 - 3D print the case by acquiring stl files from the 3de print folder in the repository. <br>
