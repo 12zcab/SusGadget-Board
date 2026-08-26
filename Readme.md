@@ -42,7 +42,7 @@ Huge thanks to Raghav who helped me polish the project and improved many design 
 
 ## What is this
 
-This is a esp32 S3 supermini based Hackducky, with a OLED display, a joystick and a potentiometer which can be used to execute commands on your friend's computer to prank them or maybe just it as a mini display for timers, temperatures or any other stats, the possibilities are endless! !
+This is a esp32 S3 supermini based Hackducky, with an OLED display, a joystick and a potentiometer which can be used to execute commands on your friend's computer to prank them or maybe just it as a mini display for timers, temperatures or any other stats, the possibilities are endless! !
 it also has a potentiometer and a buzzer so u can may be make some weird beep noise that changes its pitch while u spin the potentiometer and communicate with aliens (welp, who knows?)
 Definitely a cool gadget and definitely sus enough :D
 <br>
