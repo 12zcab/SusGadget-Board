@@ -22,6 +22,9 @@ Huge thanks to Raghav who helped me polish the project and improved many design 
 ## Zine
 <img width="486" height="749" alt="Zine" src="https://github.com/user-attachments/assets/5409e128-7941-4172-b062-a6d6b95881d9" />
 
+## Youtube Demo
+
+[Watch here!](https://youtu.be/1S0NnBTiFww?si=1X6zqkv0NfYqutrI)
 
 ## Images
 
